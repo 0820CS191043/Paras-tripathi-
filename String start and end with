@@ -1,0 +1,9 @@
+String Start and end with
+public class startandendwith {
+    public static void main(String args[]){
+        String s="Paras";
+        System.out.println(s.startsWith("Par"));
+        System.out.println(s.endsWith("s"));
+
+}
+}
