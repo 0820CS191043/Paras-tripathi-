@@ -1,0 +1,11 @@
+public class main {
+public static void main(string args[]){
+char[] kid ={
+'I',
+'s',
+'h',
+'u'
+};
+string kids = new string( kid ); system.out.println(kids);
+}
+}
